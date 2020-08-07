@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compose on Compose Docs</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Compose on Compose Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overview</title>
+      <link>https://example.com/docs/getting-started/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/getting-started/overview/</guid>
+      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
+Why shortcodes? While markdown is sufficient to produce simple pages, it&amp;rsquo;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://example.com/docs/getting-started/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/getting-started/shortcodes/</guid>
+      <description>Why shortcodes? While markdown is sufficient to produce simple pages, it&amp;rsquo;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.
+Sometimes, the shortcode will wrap content, sometimes it won&amp;rsquo;t. When content is wrapped, a closing shortcode tag is needed. Please see the link I provided above and the markdown files for examples.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes Applied</title>
+      <link>https://example.com/docs/getting-started/shortcodes-example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/getting-started/shortcodes-example/</guid>
+      <description>Using blocks, columns &amp;amp; buttons 1 2 3 4 5 6 7 8 9 10 11 12 13  {{&amp;lt; block &amp;#34;grid-2&amp;#34; &amp;gt;}} {{&amp;lt; column &amp;gt;}} #### Coumn 1 Lorem ipsum dolor sit amet, ... {{&amp;lt; button &amp;#34;https://github.com/onweru/compose&amp;#34; &amp;#34;Download Theme&amp;#34; &amp;gt;}} {{&amp;lt; /column &amp;gt;}} {{&amp;lt; column &amp;gt;}} &amp;lt;!-- generates 👇 --&amp;gt;   Coumn 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+    </item>
+    
+    <item>
+      <title>Dummy content</title>
+      <link>https://example.com/docs/getting-started/dummy-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/getting-started/dummy-content/</guid>
+      <description>Lorem Ipsum Est facies potestas, cum tumulo leni mollierant oculos moram antiquis munusque figuras. Intereat nec Nebrophonosque commune iacentem puellae ferrumque orbae frustra seditio laude, et a et in sentit Credulitas insurgens. Et mersae; Phoebe fluctibus conlectae leves vitamque e levati, posse. Sollicitive multamque Italis nataeque auras; in vocalis corporibus iram sperato Cephalus sua: Amphitryoniadae ultima turba! Populabile digitos abstrahor deprensa incunabula inque, qui movit lentosque.
+Stolidi quasque Lorem markdownum gravis quodque quoque dato, per temptare altera.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/docs/</loc>
+    <lastmod>2020-08-07T10:54:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/getting-started/</loc>
+    <lastmod>2020-08-07T10:54:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/getting-started/overview/</loc>
+    <lastmod>2020-08-07T10:54:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/getting-started/shortcodes/</loc>
+    <lastmod>2020-08-07T10:54:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/getting-started/shortcodes-example/</loc>
+    <lastmod>2020-08-07T10:54:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/getting-started/dummy-content/</loc>
+    <lastmod>2020-08-07T10:54:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-08-07T10:54:16-04:00</lastmod>
+  </url>
+  
+</urlset>
