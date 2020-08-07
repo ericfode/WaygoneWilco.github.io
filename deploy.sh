@@ -5,8 +5,10 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+
 # Go To Public folder
 cd public
+
 
 # Add changes to git.
 git add .
@@ -16,7 +18,9 @@ msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
+git checkout public
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push origin public
+git checkout master
